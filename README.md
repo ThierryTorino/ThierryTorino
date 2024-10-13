@@ -1,4 +1,4 @@
-### Olá eu sou Thierry 😉!
+### Olá eu sou o Thierry 😉!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thierry-torino-7168622a7/)
 
