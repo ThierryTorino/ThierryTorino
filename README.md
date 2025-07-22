@@ -11,4 +11,4 @@
   <img aling="center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Estou cursando Ciência da Computação (3º Semestre) - Barão de Mauá.
+Estudante de Computação focado em desenvolvimento de software (4º Semestre) com C#, Python, HTML e CSS. Em busca de uma oportunidade de estágio.
