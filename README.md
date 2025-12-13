@@ -1,5 +1,5 @@
  # 😁 Sobre mim:
-Atualmennte curso Ciências da computação na CUBM(Centro Universitário Barão de Mauá), tenho interesse tanto pelo front-end quanto pelo back-end,meus principais conhecimentos são: Html, CSS, JavaScript e C++. Sempre me mantenho atualizado na área de tecnologia, pois, amo aprender e testar meus conhecimentos para criar projetos inovadores. 
+Cursando Ciências da computação na CUBM(Centro Universitário Barão de Mauá), tenho interesse tanto pelo front-end quanto pelo back-end. Meus principais conhecimentos são: React, JavaScript, TypeScript, TailwindCss, C++. Sempre me mantenho atualizado na área de tecnologia, pois, amo aprender e testar meus conhecimentos para criar projetos inovadores.
 
 
 ## 🌐 Redes Sociais:
