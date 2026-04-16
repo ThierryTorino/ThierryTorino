@@ -48,7 +48,3 @@ Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Ce
 <br>
 <br>
 <br>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThierryTorino&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
