@@ -1,9 +1,9 @@
-Thierry Torino 😎
+👨‍💻 Thierry Torino
 
 [![Meu Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-%238B5CF6.svg?style=for-the-badge&logo=Vercel&logoColor=white)](https://portifolio-thierrytorino.vercel.app)
 
 ## 😁 Sobre mim:
-Cursando Ciência da Computação na CUBM (Centro Universitário Barão de Mauá), tenho interesse tanto pelo front-end quanto pelo back-end. Meus principais conhecimentos são: React, JavaScript, TypeScript, TailwindCss e C++. Sempre me mantenho atualizado na área de tecnologia, pois amo aprender e testar meus conhecimentos para criar projetos inovadores. 
+Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Centro Universitário Barão de Mauá), tenho interesse tanto pelo front-end quanto pelo back-end. Mas atualmente estou com foco em React. Meus principais conhecimentos são: React, JavaScript, TypeScript, TailwindCss e C++. Sempre me mantenho atualizado na área de tecnologia, pois amo aprender e testar meus conhecimentos para criar projetos inovadores. 
 
 👉 **Quer ver meus projetos na prática? [Confira meu Portfólio recém-lançado!](https://portifolio-thierrytorino.vercel.app)**
 
@@ -24,6 +24,10 @@ Cursando Ciência da Computação na CUBM (Centro Universitário Barão de Mauá
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThierryTorino&theme=dark&hide_border=false)
