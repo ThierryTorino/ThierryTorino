@@ -1,4 +1,4 @@
-👨‍💻 Thierry Torino
+👨‍💻 # Thierry Torino
 
 [![Meu Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-%238B5CF6.svg?style=for-the-badge&logo=Vercel&logoColor=white)](https://portifolio-thierrytorino.vercel.app)
 
