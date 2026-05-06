@@ -38,6 +38,13 @@ Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Ce
 <br>
 <br>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+<br>
+
 ## 📊 Estatísticas:
 
 <p>
