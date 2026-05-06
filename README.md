@@ -66,16 +66,13 @@ No activity tracked
 
 ## 📊 Estatísticas:
 
-<p>
-  <img align="left" alt="Estatísticas do GitHub" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ThierryTorino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Linguagens" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryTorino&layout=compact&theme=tokyonight&locale=pt-br" />
-</p>
+<div align="center">
+  <img alt="Estatísticas do GitHub" height="180" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api?username=ThierryTorino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_bust=1" />
+  
+  <img alt="Top Linguagens" height="180" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryTorino&layout=compact&theme=tokyonight&locale=pt-br&cache_bust=1" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <img alt="WakaTime" height="180" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThierryTorino&theme=tokyonight&layout=compact&cache_bust=1" />
+</div>
+
 <br>
 <br>
