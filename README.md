@@ -32,6 +32,8 @@ Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Ce
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%231E1E1E.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
 <br>
 <br>
