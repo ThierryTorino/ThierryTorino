@@ -39,7 +39,23 @@ Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Ce
 <br>
 
 
-<img align="left" alt="WakaTime" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThierryTorino&theme=tokyonight&layout=compact" />
+<!--START_SECTION:waka-->
+
+
+
+```txt
+
+From: 29 April 2026 - To: 06 May 2026
+
+
+
+No activity tracked
+
+```
+
+
+
+<!--END_SECTION:waka-->
 
 <br>
 <br>
