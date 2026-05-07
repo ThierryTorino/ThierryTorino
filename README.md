@@ -56,3 +56,11 @@ JavaScript   59 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 <br>
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThierryTorino/ThierryTorino/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThierryTorino/ThierryTorino/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ThierryTorino/ThierryTorino/output/github-snake.svg" />
+  </picture>
+</div>
+
