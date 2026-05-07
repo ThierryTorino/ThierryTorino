@@ -45,19 +45,11 @@ Me chamo Thierry, Atualmente estou cursando ciência da computação na CUBM (Ce
 
 <!--START_SECTION:waka-->
 
-
-
 ```txt
+From: 30 April 2026 - To: 07 May 2026
 
-From: 29 April 2026 - To: 06 May 2026
-
-
-
-No activity tracked
-
+JavaScript   59 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
-
-
 
 <!--END_SECTION:waka-->
 
