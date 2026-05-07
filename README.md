@@ -56,5 +56,3 @@ JavaScript   59 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 <br>
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ThierryTorino&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-#
