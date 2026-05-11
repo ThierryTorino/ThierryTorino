@@ -43,7 +43,7 @@ Olá, me chamo Thierry! Sou estudante de Ciência da Computação na CUBM (Centr
 <br>
 <br>
 
-
+## ⏱ Status WakaTime:
 <!--START_SECTION:waka-->
 
 ```txt
