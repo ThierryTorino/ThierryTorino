@@ -47,11 +47,11 @@ Olá, me chamo Thierry! Sou estudante de Ciência da Computação na CUBM (Centr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-JavaScript   1 hr 44 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.25 %
-CSS          0 secs                -------------------------   00.46 %
-TypeScript   0 secs                -------------------------   00.29 %
+JavaScript   1 hr 24 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.15 %
+CSS          0 secs                -------------------------   00.49 %
+TypeScript   0 secs                -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
