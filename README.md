@@ -1,6 +1,6 @@
 # 👨‍💻 Thierry Torino
 
-[![Meu Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-%238B5CF6.svg?style=for-the-badge&logo=Vercel&logoColor=white)](https://portifolio-thierrytorino.vercel.app)
+[![Meu Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-%238B5CF6.svg?style=for-the-badge&logo=Vercel&logoColor=white)](https://portifolio-thierry-torino.vercel.app)
 
 ## 😁 Sobre mim:
 Olá, me chamo Thierry! Sou estudante de Ciência da Computação na CUBM (Centro Universitário Barão de Maua) e atuo no desenvolvimento web. Tenho experiência na construção de interfaces dinâmicas com React e na integração e consumo de APIs REST. Atualmente, meu foco principal é aprofundar meus projetos no ecossistema do Next.js, buscando desenvolver aplicações modernas, otimizadas e de alta performance. 
