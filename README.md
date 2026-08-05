@@ -5,10 +5,10 @@
 ## 😁 Sobre mim:
 Olá, me chamo Thierry! Sou estudante de Ciência da Computação na CUBM (Centro Universitário Barão de Maua) e atuo no desenvolvimento web. Tenho experiência na construção de interfaces dinâmicas com React e na integração e consumo de APIs REST. Atualmente, meu foco principal é aprofundar meus projetos no ecossistema do Next.js, buscando desenvolver aplicações modernas, otimizadas e de alta performance. 
 
-👉 **Quer ver meus projetos na prática? [Confira meu Portfólio](https://portifolio-thierrytorino.vercel.app)**
+👉 **Quer ver meus projetos na prática? [Confira meu Portfólio](https://portifolio-thierry-torino.vercel.app)**
 
 ## 🌐 Redes Sociais & Contato:
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=flat&logo=Vercel&logoColor=white)](https://portifolio-thierrytorino.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=flat&logo=Vercel&logoColor=white)](https://portifolio-thierry-torino.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thierry_torino) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thierry-torino) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thierry.torino@yahoo.com) 
